@@ -1,11 +1,7 @@
 # 🧩 Leads Tracker – Scrimba Solo Project
 
-<img width="1440" alt="Leads Tracker Preview" src="https://github.com/user-attachments/assets/95992171-491A-4A74-97D8-DEC8D5AEF5D7" />
+<img width="463" height="177" alt="Image" src="https://github.com/user-attachments/assets/86bd34f6-5df6-4d5f-99dd-5cac541ff7ae" />
 
-## 🌐 Live Demo
-
-[![Chrome Extension](https://img.shields.io/badge/Install-Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/category/extensions)
-[![View on GitHub](https://img.shields.io/badge/Source%20Code-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-atip/leads-tracker)
 
 ---
 
